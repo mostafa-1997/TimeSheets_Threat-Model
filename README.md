@@ -1,4 +1,4 @@
-# TimeSheets_Threat-Model
+# TimeSheets Threat Report
 
 ## Scenario
 Your company utilizes a custom application, called TimeSheets, to log timesheets. This custom application was built in-house. Until recently, this application was only accessible via the internal corporate network. Due to an increasingly mobile workforce, the need to access the application externally has started to increase. Business leaders made the suggestion of using the existing application and exposing it externally. Last week, IT made the change to allow users to connect externally.
